@@ -12,11 +12,11 @@ if($conexion){
 }*/
 $dbHost = 'remotemysql.com';
 
-$dbUsername = 'gu6EqlTj8p';
+$dbUsername = 'HRme7q7ZMd';
 
-$dbPassword = 'sqYM6pwdQp';
+$dbPassword = 'SHriNyNfWv';
 
-$dbName = 'gu6EqlTj8p';
+$dbName = 'HRme7q7ZMd';
 //Conectamos y seleccionamos la base de datos
 
 $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
